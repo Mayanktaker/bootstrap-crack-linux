@@ -1,4 +1,4 @@
-*Important :- This crack is nor developed by me, neither I am connected to this crack in anyway. This crack was intended for the windows/macos version and I just did a little extraction, copy and paste to make it work for linux distributions.*
+*Important :- This crack is neither developed by me, nor I am connected to this crack in anyway. This crack was intended for the windows/macos version and I just did a little extraction, copy and paste to make it work for linux distributions.*
 
 ## Instructions for installing Bootstrap Studio 5.8.3 Cracked
 

@@ -6,7 +6,7 @@ Goto `bstudio` folder and execute `AppRun` file.
 
 ### How to execute AppRun
 
-1. Make it executable `chmod a+x ./AppRun`
+1. Move to bstudio directory by `cd bstudio`
 2. Open terminal and type `./AppRun`
 
 

@@ -13,4 +13,4 @@
 3. Execute the launcher.sh using `bash launcher.sh`
 4. Done
 
-Note:- Code used in both the scripts (launcher.sh and install.sh) is taken from official Bootstap Studio launcher.sh script with some modification in order to make it work with this crack and I also removed some unneccessary lines from that script.
+Note:- Code used in both the scripts (launcher.sh and install.sh) is taken from official Bootstap Studio [launcher.sh](https://bootstrapstudio.io/releases/desktop/5.8.3/launcher.sh) script with some modification in order to make it work with this crack and I also removed some unneccessary lines from that script.
